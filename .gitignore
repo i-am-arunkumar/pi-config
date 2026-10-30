@@ -30,3 +30,6 @@ __pycache__/
 Thumbs.db
 tmp/
 *.log
+favorites.json
+models-store.json
+pisesh-meta.json

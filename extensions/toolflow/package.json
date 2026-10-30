@@ -1,0 +1,8 @@
+{
+  "name": "local-toolflow-extension",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@sinclair/typebox": "^0.34.52"
+  }
+}

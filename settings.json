@@ -1,5 +1,8 @@
 {
   "lastChangelogVersion": "1.4.0",
-  "deviceId": "ac582dd1-b2ce-4a00-b9e9-816074266c77",
+  "theme": "opencode-black",
+  "deviceId": "c67eb92a-3c76-4be0-bce6-539d0b9d7d04",
+  "defaultProvider": "openai",
+  "defaultModel": "gpt-6.1-sol",
   "packages": []
 }
